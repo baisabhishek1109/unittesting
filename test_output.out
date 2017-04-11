@@ -1,0 +1,9 @@
+test_selenium (__main__.TestContainer) ... ok
+test_spliting (__main__.TestContainer) ... ok
+test_stdout (__main__.TestContainer) ... ok
+test_strings (__main__.TestContainer) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 18.804s
+
+OK
